@@ -1,2 +1,2 @@
 # List
-Utilizado lista com arrays 
+Utilizando lista com arrays 
